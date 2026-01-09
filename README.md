@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kings-Israel
-- 👀 I’m interested in Software Development, Gmaing and Good music
-- 🌱 I’m currently learning Android Development using Flutter and Dart
+- 👀 I’m interested in Software Development, Gaming and Good music
 - 📫 How to reach me @milimokings@gmail.com
 
 <!---
